@@ -1,10 +1,9 @@
 <h3 align="center">Yumma CSS — Astro</h3>
 
 <p align="center">
-  This is a Astro Yumma CSS example.
+  An Astro project with Yumma CSS.
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
-  
 
 ## Get started
 
