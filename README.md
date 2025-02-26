@@ -7,7 +7,7 @@
 <h3 align="center">Yumma CSS 🤝 Astro</h3>
 
 <p align="center">
-  Learn how to integrate Yumma CSS with Astro.
+  Learn how to integrate Yumma CSS with Astro
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
 
